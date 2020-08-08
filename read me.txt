@@ -1,0 +1,3 @@
+>> keep the file named studentattendance C:\xampp\htdocs here.
+>> goto browser and go http://localhost/studentattendance
+>> take help from https://circuits4you.com 
